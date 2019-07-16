@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
-
+# FIR Low Pass Filter with bartlett window to Python
 
 import soundfile as sf
 from numpy import sinc, bartlett, convolve

@@ -1,3 +1,6 @@
+% FIR Low Pass Filter with bartlett window to Matalab
+%
+%
 
 
 [wav_1, fs] = audioread('Skrilex.wav');
